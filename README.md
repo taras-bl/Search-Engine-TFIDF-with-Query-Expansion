@@ -23,3 +23,4 @@ It is a simple TF-IDF search engine with a query expansion using bi-gram.
 ## Output
 
 ![SE Output](https://github.com/fajri91/document/blob/master/search.jpg)
+sex
